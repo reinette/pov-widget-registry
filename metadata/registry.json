@@ -1,7 +1,7 @@
 [
   {
-    "repositoryUrl": "https://github.com/reinette/pov_widget_example",
-    "shortcode": "pov_widget_example",
-    "version": "v1.1.0"
+    "repositoryUrl": "https://github.com/reinette/pov-conf-widget",
+    "shortcode": "pov-conf-widget",
+    "version": "v1.0.2"
   }
 ]
