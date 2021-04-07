@@ -13,5 +13,10 @@
     "repositoryUrl": "https://github.com/js-widgets/example-emojis",
     "shortcode": "example-emojis",
     "version": "v1.0.4"
+  },
+  {
+    "repositoryUrl": "https://github.com/reinette/pov_widget_example",
+    "shortcode": "pov_widget_example",
+    "version": "v0.0.4"
   }
 ]
