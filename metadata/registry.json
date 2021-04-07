@@ -1,7 +1,7 @@
 [
   {
-    "repositoryUrl": "https://github.com/reinette/pov_widget_example",
+    "tarballUrl": "https://github.com/reinette/pov_widget_example/archive/refs/tags/1.0.2.tar.gz"
     "shortcode": "pov_widget_example",
-    "version": "v1.0.1"
+    "version": "v1.0.2"
   }
 ]
