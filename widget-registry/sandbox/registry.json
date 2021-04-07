@@ -1,10 +1,9 @@
 [
   {
-    "repositoryUrl": "https://github.com/js-widgets/example-widget",
-    "shortcode": "example-widget",
-    "version": "v1.3.1",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-widget/v1",
-    "tarballUrl": "/tmp/widget-definitions-VBYA4i/example-widget.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-uGHLUd/pov_widget_example.tar.gz",
+    "shortcode": "pov_widget_example",
+    "version": "v1.0.0",
+    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/pov_widget_example/v1",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -13,8 +12,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T03:29:58.217Z",
-    "createdAt": "2021-04-07T03:29:58.217Z",
+    "updatedAt": "2021-04-07T03:50:02.393Z",
+    "createdAt": "2021-04-07T03:50:02.393Z",
     "availableTranslations": [
       "ar",
       "de",
@@ -32,7 +31,7 @@
       "zh-cn",
       "zh-tw"
     ],
-    "description": "This example contains documentation and example code for creating widgets using React.",
+    "description": "This contains an example widget using React.",
     "settingsSchema": {
       "type": "object",
       "additionalProperties": false,
@@ -65,99 +64,15 @@
         "src": "https://unpkg.com/react-intl-bundle@^1/dist/react-intl.production.min.js"
       }
     },
-    "title": "Example Widget",
+    "title": "POV Widget Example",
     "status": "stable",
     "assetManifest": {
       "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-widget/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-widget/v1/js/main.js"
+        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/pov_widget_example/v1/css/main.css",
+        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/pov_widget_example/v1/js/main.js"
       },
       "entrypoints": [
         "static/css/main.8343b28c.css",
-        "css/main.css",
-        "js/main.js"
-      ]
-    }
-  },
-  {
-    "repositoryUrl": "https://github.com/js-widgets/example-calculator",
-    "shortcode": "example-calculator",
-    "version": "v1.0.7",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-calculator/v1",
-    "tarballUrl": "/tmp/widget-definitions-VBYA4i/example-calculator.tar.gz",
-    "files": [
-      "css/main.css",
-      "css/main.css.map",
-      "js/main.js",
-      "js/main.js.LICENSE.txt",
-      "js/main.js.map",
-      "thumbnail.svg"
-    ],
-    "updatedAt": "2021-04-07T03:29:58.217Z",
-    "createdAt": "2021-04-07T03:29:58.217Z",
-    "availableTranslations": [
-      "en"
-    ],
-    "description": "This example contains a calculator.",
-    "externalPeerDependencies": {
-      "react": {
-        "src": "https://unpkg.com/react@^17/umd/react.production.min.js"
-      },
-      "react-dom": {
-        "src": "https://unpkg.com/react-dom@^17/umd/react-dom.production.min.js"
-      }
-    },
-    "title": "Example Calculator",
-    "status": "stable",
-    "assetManifest": {
-      "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-calculator/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-calculator/v1/js/main.js"
-      },
-      "entrypoints": [
-        "static/css/main.2028f805.css",
-        "css/main.css",
-        "js/main.js"
-      ]
-    }
-  },
-  {
-    "repositoryUrl": "https://github.com/js-widgets/example-emojis",
-    "shortcode": "example-emojis",
-    "version": "v1.0.4",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-emojis/v1",
-    "tarballUrl": "/tmp/widget-definitions-VBYA4i/example-emojis.tar.gz",
-    "files": [
-      "css/main.css",
-      "css/main.css.map",
-      "js/main.js",
-      "js/main.js.LICENSE.txt",
-      "js/main.js.map",
-      "thumbnail.svg"
-    ],
-    "updatedAt": "2021-04-07T03:29:58.217Z",
-    "createdAt": "2021-04-07T03:29:58.217Z",
-    "availableTranslations": [
-      "en"
-    ],
-    "description": "This example contains emojis.",
-    "externalPeerDependencies": {
-      "react": {
-        "src": "https://unpkg.com/react@^17/umd/react.production.min.js"
-      },
-      "react-dom": {
-        "src": "https://unpkg.com/react-dom@^17/umd/react-dom.production.min.js"
-      }
-    },
-    "title": "Example Emojis",
-    "status": "wip",
-    "assetManifest": {
-      "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-emojis/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-emojis/v1/js/main.js"
-      },
-      "entrypoints": [
-        "static/css/main.7c29b23a.css",
         "css/main.css",
         "js/main.js"
       ]
