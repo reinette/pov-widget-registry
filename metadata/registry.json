@@ -1,8 +1,18 @@
 [
   {
-   "repositoryUrl": "https://github.com/reinette/pov-conf-widget",
+   "tarballUrl": "https://api.github.com/repos/reinette/pov-conf-widget/tarball/v1.0.2",
    "version": "v1.0.2",
    "shortcode": "pov-conf-widget"
+  },
+  {
+    "repositoryUrl": "https://github.com/js-widgets/example-widget",
+    "shortcode": "example-widget",
+    "version": "v1.3.1"
+  },
+  {
+    "repositoryUrl": "https://github.com/js-widgets/example-calculator",
+    "shortcode": "example-calculator",
+    "version": "v1.0.7"
   },
   {
     "repositoryUrl": "https://github.com/js-widgets/example-emojis",
