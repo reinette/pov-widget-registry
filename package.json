@@ -1,6 +1,6 @@
 {
-  "name": "@reinette/widget-registry-boilerplate",
-  "description": "Boilerplate code to create your own widget registry.",
+  "name": "@reinette/pov-widget-registry",
+  "description": "POV widget registry.",
   "private": false,
   "license": "MIT",
   "publishConfig": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:reinette/widget-registry-boilerplate.git"
+    "url": "git@github.com:reinette/pov-widget-registry.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
