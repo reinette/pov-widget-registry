@@ -33,7 +33,7 @@ module.exports = {
     managerOptions: {
       discovery: {
         allowsContributed: true,
-        rootPath: './node_modules/@reinette',
+        rootPath: './node_modules/@js-widgets',
       },
     },
     // Options related to how the individual widget data is imported.
