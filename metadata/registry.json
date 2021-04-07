@@ -1,8 +1,6 @@
 [
   {
-    "repositoryUrl": "https://github.com/reinette/pov-conf-widget",
-    "shortcode": "pov-conf-widget",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/pov-conf-widget/v1",
-    "version": "v1.0.2"
+    repositoryUrl: 'https://github.com/reinette/pov-conf-widget',
+    version: 'v1.0.2'
   }
 ]
