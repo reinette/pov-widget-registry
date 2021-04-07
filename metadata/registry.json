@@ -1,21 +1,6 @@
 [
   {
-    "repositoryUrl": "https://github.com/js-widgets/example-widget",
-    "shortcode": "example-widget",
-    "version": "v1.3.1"
-  },
-  {
-    "repositoryUrl": "https://github.com/js-widgets/example-calculator",
-    "shortcode": "example-calculator",
-    "version": "v1.0.7"
-  },
-  {
-    "repositoryUrl": "https://github.com/js-widgets/example-emojis",
-    "shortcode": "example-emojis",
-    "version": "v1.0.4"
-  },
-  {
-    "repositoryUrl": "https://github.com/reinette/pov_widget_example",
+    "tarballUrl": "https://github.com/reinette/pov_widget_example/archive/refs/tags/1.0.0.tar.gz",
     "shortcode": "pov_widget_example",
     "version": "v0.0.5"
   }
