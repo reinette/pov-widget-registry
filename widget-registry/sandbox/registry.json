@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "repositoryUrl": "https://github.com/js-widgets/example-emojis",
+    "shortcode": "example-emojis",
+    "version": "v1.0.4",
+    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-emojis/v1",
+    "tarballUrl": "/tmp/widget-definitions-Dl8Ubq/example-emojis.tar.gz",
+    "files": [
+      "css/main.css",
+      "css/main.css.map",
+      "js/main.js",
+      "js/main.js.LICENSE.txt",
+      "js/main.js.map",
+      "thumbnail.svg"
+    ],
+    "updatedAt": "2021-04-07T21:31:49.318Z",
+    "createdAt": "2021-04-07T21:31:49.318Z",
+    "availableTranslations": [
+      "en"
+    ],
+    "description": "This example contains emojis.",
+    "externalPeerDependencies": {
+      "react": {
+        "src": "https://unpkg.com/react@^17/umd/react.production.min.js"
+      },
+      "react-dom": {
+        "src": "https://unpkg.com/react-dom@^17/umd/react-dom.production.min.js"
+      }
+    },
+    "title": "Example Emojis",
+    "status": "wip",
+    "assetManifest": {
+      "files": {
+        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-emojis/v1/css/main.css",
+        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/example-emojis/v1/js/main.js"
+      },
+      "entrypoints": [
+        "static/css/main.7c29b23a.css",
+        "css/main.css",
+        "js/main.js"
+      ]
+    }
+  }
+]
