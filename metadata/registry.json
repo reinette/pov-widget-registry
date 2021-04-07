@@ -2,6 +2,11 @@
   {
    "repositoryUrl": "https://github.com/reinette/pov-conf-widget",
    "version": "v1.0.2",
-    "shortcode": "pov-conf-widget"
+   "shortcode": "pov-conf-widget"
+  },
+  {
+    "repositoryUrl": "https://github.com/js-widgets/example-emojis",
+    "shortcode": "example-emojis",
+    "version": "v1.0.4"
   }
 ]
