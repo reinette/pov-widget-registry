@@ -4,7 +4,7 @@
     "shortcode": "pov-conf-widget",
     "version": "v1.3.0",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/pov-conf-widget/v1",
-    "tarballUrl": "/tmp/widget-definitions-GieKDt/pov-conf-widget.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-OD35NH/pov-conf-widget.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -13,8 +13,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T23:57:02.484Z",
-    "createdAt": "2021-04-07T23:57:02.484Z",
+    "updatedAt": "2021-04-08T00:04:44.120Z",
+    "createdAt": "2021-04-08T00:04:44.120Z",
     "availableTranslations": [
       "en"
     ],
@@ -70,7 +70,7 @@
     "shortcode": "example-widget",
     "version": "v1.3.1",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-widget/v1",
-    "tarballUrl": "/tmp/widget-definitions-GieKDt/example-widget.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-OD35NH/example-widget.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -79,8 +79,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T23:57:02.484Z",
-    "createdAt": "2021-04-07T23:57:02.484Z",
+    "updatedAt": "2021-04-08T00:04:44.120Z",
+    "createdAt": "2021-04-08T00:04:44.120Z",
     "availableTranslations": [
       "ar",
       "de",
@@ -150,7 +150,7 @@
     "shortcode": "example-calculator",
     "version": "v1.0.7",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-calculator/v1",
-    "tarballUrl": "/tmp/widget-definitions-GieKDt/example-calculator.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-OD35NH/example-calculator.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -159,8 +159,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T23:57:02.484Z",
-    "createdAt": "2021-04-07T23:57:02.484Z",
+    "updatedAt": "2021-04-08T00:04:44.120Z",
+    "createdAt": "2021-04-08T00:04:44.120Z",
     "availableTranslations": [
       "en"
     ],
@@ -192,7 +192,7 @@
     "shortcode": "example-emojis",
     "version": "v1.0.4",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-emojis/v1",
-    "tarballUrl": "/tmp/widget-definitions-GieKDt/example-emojis.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-OD35NH/example-emojis.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -201,8 +201,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T23:57:02.484Z",
-    "createdAt": "2021-04-07T23:57:02.484Z",
+    "updatedAt": "2021-04-08T00:04:44.120Z",
+    "createdAt": "2021-04-08T00:04:44.120Z",
     "availableTranslations": [
       "en"
     ],
