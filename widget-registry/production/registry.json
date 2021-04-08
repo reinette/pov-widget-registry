@@ -1,9 +1,10 @@
 [
   {
-    "tarballUrl": "/tmp/widget-definitions-U8H3ej/pov-conf-widget.tar.gz",
+    "repositoryUrl": "https://github.com/reinette/pov-conf-widget",
     "shortcode": "pov-conf-widget",
-    "version": "v1.0.2",
+    "version": "v1.3.0",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/pov-conf-widget/v1",
+    "tarballUrl": "/tmp/widget-definitions-GieKDt/pov-conf-widget.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -12,24 +13,10 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T22:57:04.231Z",
-    "createdAt": "2021-04-07T22:57:04.231Z",
+    "updatedAt": "2021-04-07T23:57:02.484Z",
+    "createdAt": "2021-04-07T23:57:02.484Z",
     "availableTranslations": [
-      "ar",
-      "de",
-      "en",
-      "es",
-      "esla",
-      "fr",
-      "it",
-      "ja",
-      "ko",
-      "pl",
-      "pt",
-      "ru",
-      "tr",
-      "zh-cn",
-      "zh-tw"
+      "en"
     ],
     "description": "This example contains documentation and example code for creating widgets using React.",
     "settingsSchema": {
@@ -64,7 +51,7 @@
         "src": "https://unpkg.com/react-intl-bundle@^1/dist/react-intl.production.min.js"
       }
     },
-    "title": "Example Widget",
+    "title": "POV Configuration Widget",
     "status": "stable",
     "assetManifest": {
       "files": {
@@ -83,7 +70,7 @@
     "shortcode": "example-widget",
     "version": "v1.3.1",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-widget/v1",
-    "tarballUrl": "/tmp/widget-definitions-U8H3ej/example-widget.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-GieKDt/example-widget.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -92,8 +79,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T22:57:04.231Z",
-    "createdAt": "2021-04-07T22:57:04.231Z",
+    "updatedAt": "2021-04-07T23:57:02.484Z",
+    "createdAt": "2021-04-07T23:57:02.484Z",
     "availableTranslations": [
       "ar",
       "de",
@@ -163,7 +150,7 @@
     "shortcode": "example-calculator",
     "version": "v1.0.7",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-calculator/v1",
-    "tarballUrl": "/tmp/widget-definitions-U8H3ej/example-calculator.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-GieKDt/example-calculator.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -172,8 +159,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T22:57:04.231Z",
-    "createdAt": "2021-04-07T22:57:04.231Z",
+    "updatedAt": "2021-04-07T23:57:02.484Z",
+    "createdAt": "2021-04-07T23:57:02.484Z",
     "availableTranslations": [
       "en"
     ],
@@ -205,7 +192,7 @@
     "shortcode": "example-emojis",
     "version": "v1.0.4",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-emojis/v1",
-    "tarballUrl": "/tmp/widget-definitions-U8H3ej/example-emojis.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-GieKDt/example-emojis.tar.gz",
     "files": [
       "css/main.css",
       "css/main.css.map",
@@ -214,8 +201,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T22:57:04.231Z",
-    "createdAt": "2021-04-07T22:57:04.231Z",
+    "updatedAt": "2021-04-07T23:57:02.484Z",
+    "createdAt": "2021-04-07T23:57:02.484Z",
     "availableTranslations": [
       "en"
     ],
