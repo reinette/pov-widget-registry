@@ -1,6 +1,6 @@
 [
   {
-    "tarballUrl": "/tmp/widget-definitions-3pGEWg/pov-conf-widget.tar.gz",
+    "tarballUrl": "/tmp/widget-definitions-9FsHoN/pov-conf-widget.tar.gz",
     "shortcode": "pov-conf-widget",
     "version": "v1.0.2",
     "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/sandbox/pov-conf-widget/v1",
@@ -12,8 +12,8 @@
       "js/main.js.map",
       "thumbnail.svg"
     ],
-    "updatedAt": "2021-04-07T22:30:03.289Z",
-    "createdAt": "2021-04-07T22:30:03.289Z",
+    "updatedAt": "2021-04-08T00:02:47.078Z",
+    "createdAt": "2021-04-08T00:02:47.078Z",
     "availableTranslations": [
       "ar",
       "de",
