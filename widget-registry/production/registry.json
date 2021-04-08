@@ -3,7 +3,7 @@
     "repositoryUrl": "https://github.com/reinette/pov-conf-widget",
     "shortcode": "pov-conf-widget",
     "version": "v1.3.0",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/pov-conf-widget/v1",
+    "directoryUrl": "https://reinette.github.io/pov-conf-widget/widget-registry/production/pov-conf-widget/v1",
     "tarballUrl": "/tmp/widget-definitions-OD35NH/pov-conf-widget.tar.gz",
     "files": [
       "css/main.css",
@@ -55,8 +55,8 @@
     "status": "stable",
     "assetManifest": {
       "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/pov-conf-widget/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/pov-conf-widget/v1/js/main.js"
+        "main.css": "https://reinette.github.io/pov-conf-widget/widget-registry/production/pov-conf-widget/v1/css/main.css",
+        "main.js": "https://reinette.github.io/pov-conf-widget/widget-registry/production/pov-conf-widget/v1/js/main.js"
       },
       "entrypoints": [
         "static/css/main.8343b28c.css",
@@ -69,7 +69,7 @@
     "repositoryUrl": "https://github.com/js-widgets/example-widget",
     "shortcode": "example-widget",
     "version": "v1.3.1",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-widget/v1",
+    "directoryUrl": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-widget/v1",
     "tarballUrl": "/tmp/widget-definitions-OD35NH/example-widget.tar.gz",
     "files": [
       "css/main.css",
@@ -135,8 +135,8 @@
     "status": "stable",
     "assetManifest": {
       "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-widget/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-widget/v1/js/main.js"
+        "main.css": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-widget/v1/css/main.css",
+        "main.js": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-widget/v1/js/main.js"
       },
       "entrypoints": [
         "static/css/main.8343b28c.css",
@@ -149,7 +149,7 @@
     "repositoryUrl": "https://github.com/js-widgets/example-calculator",
     "shortcode": "example-calculator",
     "version": "v1.0.7",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-calculator/v1",
+    "directoryUrl": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-calculator/v1",
     "tarballUrl": "/tmp/widget-definitions-OD35NH/example-calculator.tar.gz",
     "files": [
       "css/main.css",
@@ -177,8 +177,8 @@
     "status": "stable",
     "assetManifest": {
       "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-calculator/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-calculator/v1/js/main.js"
+        "main.css": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-calculator/v1/css/main.css",
+        "main.js": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-calculator/v1/js/main.js"
       },
       "entrypoints": [
         "static/css/main.2028f805.css",
@@ -191,7 +191,7 @@
     "repositoryUrl": "https://github.com/js-widgets/example-emojis",
     "shortcode": "example-emojis",
     "version": "v1.0.4",
-    "directoryUrl": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-emojis/v1",
+    "directoryUrl": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-emojis/v1",
     "tarballUrl": "/tmp/widget-definitions-OD35NH/example-emojis.tar.gz",
     "files": [
       "css/main.css",
@@ -219,8 +219,8 @@
     "status": "wip",
     "assetManifest": {
       "files": {
-        "main.css": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-emojis/v1/css/main.css",
-        "main.js": "https://reinette.github.io/widget-registry-boilerplate/widget-registry/production/example-emojis/v1/js/main.js"
+        "main.css": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-emojis/v1/css/main.css",
+        "main.js": "https://reinette.github.io/pov-conf-widget/widget-registry/production/example-emojis/v1/js/main.js"
       },
       "entrypoints": [
         "static/css/main.7c29b23a.css",
