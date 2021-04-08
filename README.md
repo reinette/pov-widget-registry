@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/js-widgets/widget-registry-boilerplate?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/js-widgets/widget-registry-boilerplate/Publish%20Registry?style=flat-square)
 
-# Widget Registry Boilerplate
+# Widget Registry
 
 This project generates a static site with a catalog of all your widgets. This includes the ability
 to search and navigate widgets, as well as document your widgets in a beautiful website. Try out the
